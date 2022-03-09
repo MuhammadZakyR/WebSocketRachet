@@ -1,0 +1,9 @@
+.chat .chat_header
+{
+    flex: 1;
+    background-color: rgb(175, 4, 4);
+    padding: 0 30px;
+    width: 100%;
+    box-shadow: 0 3px 7px 0 rgba(168,168,168,1);
+    color:#fff;
+}

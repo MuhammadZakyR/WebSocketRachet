@@ -1,0 +1,28 @@
+@import "./chat.css";
+*
+{
+    box-sizing: border-box;
+    font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+html,body
+{
+    margin: 0;
+    height: 100%;
+    color: rgb(109, 85, 248);
+}
+.root
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+/* .chat_header
+{
+    flex: 1;
+    background-color: rgb(175, 4, 4);
+    padding: 0 30px;
+    width: 100%;
+    box-shadow: 0 3px 7px 0 rgba(168,168,168,1);
+    color:#fff;
+} */
